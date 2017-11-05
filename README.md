@@ -5,7 +5,7 @@ This is a simple tool to download the latest GPS Ephemeris data (GPS prediction 
 This tool is needed because the [Sony PlayMemories software](http://support.d-imaging.sony.co.jp/www/disoft/int/download/playmemories-home/mac/en/), which is normally responsible for updating the GPS data, is [not yet compatible with macOS 10.13](http://sony-eur-eu-en-web--eur.custhelp.com/app/answers/detail/a_id/143062/~/macos-10.13-%28high-sierra%29-compatibility-information-for-application-software).
 
 ## Usage
-Download a compiled binary or install and build:
+Download a compiled binary from the [releases page](https://github.com/diarmuidie/assistme/releases/) or install and build:
 ```
 go get github.com/diarmuidie/assistme
 go install
